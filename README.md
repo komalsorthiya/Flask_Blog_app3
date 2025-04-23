@@ -6,5 +6,4 @@
 ## static
 ## utils
 
-End README.md
 # Komal's Sorthiya Respository
